@@ -9,3 +9,11 @@ Additional Features
 - The menu uses a running background / scrolling background (Parallax Effect)
 - Added Settings Options on the menu
 - Added volume control feature in slide-able settings
+
+## Gameplay
+### Main Menu
+![Main Menu](https://github.com/fachry-isl/2d-mushroom-ping-pong/blob/main/Screenshot/Main%20Menu.png?raw=true)
+### In Game
+![In Game](https://github.com/fachry-isl/2d-mushroom-ping-pong/blob/main/Screenshot/Gameplay.png?raw=true)
+### Settings
+![Settings](https://github.com/fachry-isl/2d-mushroom-ping-pong/blob/main/Screenshot/Option%20Menu.png?raw=true)
